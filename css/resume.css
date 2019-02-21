@@ -54,16 +54,16 @@ p.lead {
   font-size: 1.5rem;
 }
 
-.social-icons a {
+.Other {
   display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 6rem;
+  width: 6rem;
   background-color: #495057;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
+  font-size: 2rem;
+  line-height: 6rem;
   margin-right: 1rem;
 }
 
